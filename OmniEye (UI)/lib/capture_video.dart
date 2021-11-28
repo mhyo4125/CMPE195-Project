@@ -12,7 +12,7 @@ class _CaptureVideoState extends State<CaptureVideo> {
   Widget build(BuildContext context) {
     return Scaffold(
         //
-        // NEEDS IMPLEMENTATION
+        // NEEDS IMPLEMENTATION - uses phone camera as a bluetooth camera to capture footage
         //
         );
   }
