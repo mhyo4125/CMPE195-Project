@@ -1,5 +1,4 @@
-import 'package:cmpe195_project/sign_in.dart';
-import 'package:cmpe195_project/sign_up.dart';
+import 'package:cmpe195_project/project_grid.dart';
 
 import 'imports.dart';
 
@@ -99,6 +98,20 @@ class _MyHomePageState extends State<MyHomePage> {
                 },
               ),
             ),
+            // FOR TESTING PURPOSES //
+            Padding(
+              padding: const EdgeInsets.all(3),
+              child: Button(
+                text: 'TEST A WIDGET',
+                color1: Colors.red,
+                color2: PresetColors.silver,
+                onPressed: () {
+                  Navigator.of(context).push(MaterialPageRoute(
+                      builder: (context) => const ProjectGrid()));
+                },
+              ),
+            ),
+            // FOR TESTING PURPOSES //
           ],
         ),
       ),

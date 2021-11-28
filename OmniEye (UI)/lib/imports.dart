@@ -4,3 +4,8 @@ export 'button.dart';
 export 'sign_in.dart';
 export 'sign_up.dart';
 export 'reset_pw_email.dart';
+export 'capture_video.dart';
+export 'dart:async';
+export 'dart:io';
+export 'package:flutter/material.dart';
+export 'package:camera/camera.dart';
