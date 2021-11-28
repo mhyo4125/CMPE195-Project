@@ -105,7 +105,7 @@ class ProjectTile extends StatelessWidget {
     return GestureDetector(
       onTap: () {
         //
-        // NEEDS IMPLEMENTATION
+        // NEEDS IMPLEMENTATION - option to send data to user computer from phone
         //
       },
       child: Container(
