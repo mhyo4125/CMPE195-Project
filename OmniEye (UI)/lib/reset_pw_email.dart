@@ -47,7 +47,7 @@ class _ResetPWState extends State<ResetPW> {
                       const SizedBox(
                         height: 30,
                       ),
-                      const Text('Verify Account',
+                      const Text('Verify Info',
                           style: TextStyle(
                             fontFamily: 'ProximaNova',
                             fontWeight: FontWeight.w800,

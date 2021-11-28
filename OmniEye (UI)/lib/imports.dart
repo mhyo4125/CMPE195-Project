@@ -9,3 +9,4 @@ export 'dart:async';
 export 'dart:io';
 export 'package:flutter/material.dart';
 export 'package:camera/camera.dart';
+export 'project_grid.dart';
