@@ -9,7 +9,7 @@ This project was created to make 3D pose estimation possible using stereovision 
 - [Thomas](https://www.github.com/tomlogan-dev1)
 - [Pushaan](https://www.github.com/shaan1999s)
 - [Alvin](https://www.github.com/mhyo4125)
-
+- [Jeffrey](https://www.github.com/jeffrey0515)
 
 
 ## Installation
