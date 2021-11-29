@@ -1,5 +1,5 @@
 
-# Omni-eye
+# OmniEye
 
 This project was created to make 3D pose estimation possible using stereovision and AI models.  Anyone that is in a field that requires pose estimation of a subject can benefit from this project.
  
